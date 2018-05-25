@@ -1,9 +1,9 @@
-# Star Hills
+# Star Hills 
 
 Star Hills is our remake of Ant Hills ! 
 The goal in the game is to take the ressources and defend the base before T-Fighter destroy it !
 
-##Content 
+## Content 
 * Install the game
 * Gameplay
 * Contributors
@@ -18,10 +18,10 @@ git clone https://github.com/RaphCPV/Star-Hills.git
 
 Then compile it with _QtCreator_ .
 
-##Gameplay
+## Gameplay
 
 
-##Contributors
+## Contributors
 
 * Raphael Champeaud
 * Alexandre Cruel
