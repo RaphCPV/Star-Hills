@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Ressources/base.png</file>
+        <file>Ressources/destroyer.png</file>
+        <file>Ressources/fond_etoile.jpg</file>
+        <file>Ressources/star_hill.png</file>
+        <file>Ressources/tie_fighter.png</file>
+        <file>Ressources/xwing_2.png</file>
+        <file>Ressources/fond_game.jpg</file>
+        <file>Ressources/debris.png</file>
+        <file>Ressources/lose.png</file>
+        <file>Ressources/win.png</file>
+        <file>Ressources/tuto_1.png</file>
+        <file>Ressources/tuto_5.png</file>
+        <file>Ressources/tuto_4.png</file>
+        <file>Ressources/tuto_3.png</file>
+        <file>Ressources/tuto_2.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>Ressources/bg.mp3</file>
+        <file>Ressources/noo.mp3</file>
+        <file>Ressources/blast.mp3</file>
+        <file>Ressources/win.mp3</file>
+    </qresource>
+</RCC>
